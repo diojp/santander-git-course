@@ -5,3 +5,4 @@
 ## Brincanco com o GIT!!!
 
 * comando git push
+* comando git pull
